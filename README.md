@@ -1,4 +1,4 @@
-# Vowelcount ASM x86
+# Vowelcount ASM x86-64
 
 --- 
 
